@@ -1,0 +1,26 @@
+Country,TrackType,TyreSeverity,TotalCorners,TrackLength
+Bahrain,desert,high,15,5.412
+Saudi Arabia,street,high,27,6.174
+Australia,street,medium,14,5.278
+Azerbaijan,street,medium,20,6.003
+Miami,street,high,19,5.412
+Monaco,street,low,19,3.337
+Spain,permanent,high,16,4.675
+Canada,street,medium,14,4.361
+Austria,permanent,medium,10,4.318
+Great Britain,permanent,high,18,5.891
+Hungary,permanent,high,14,4.381
+Belgium,permanent,medium,19,7.004
+Netherlands,permanent,high,14,4.259
+Italy,permanent,low,11,5.793
+Singapore,street,high,23,4.94
+Japan,permanent,medium,18,5.807
+Qatar,permanent,high,16,5.38
+United States,permanent,high,20,5.513
+Mexico,permanent,medium,17,4.304
+Brazil,permanent,high,15,4.309
+Las Vegas,street,low,17,6.12
+Abu Dhabi,permanent,high,16,5.281
+Emilia Romagna,permanent,medium,19,4.909
+Portugal,permanent,medium,15,4.653
+Turkey,permanent,high,14,5.338
