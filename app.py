@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 import sys
 sys.path.append('.')
 from pit_stop_strategy_engine import F1PitStopStrategyEngine, format_strategy_output
