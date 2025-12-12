@@ -53,5 +53,13 @@ F1TyreStrategy/
 - F1 enthusiasts analyzing race strategies
 - Data scientists exploring F1 analytics
 
+---
+
+## 🌐 Live App
+You can try the live app here:  
+**[https://f1-tyre-strategy-recommendation.streamlit.app/]**
+
+---
+
 ## 📝 Author
 Built with FastF1, Scikit-Learn, XGBoost, and F1 passion 🏁
